@@ -1,0 +1,6 @@
+{
+  "name": "EduHealth Desktop",
+  "description": "Premium All-in-One Student Productivity & Wellness Desktop Application with assignment management, exam preparation, focus timer, hydration tracking, and calendar.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
